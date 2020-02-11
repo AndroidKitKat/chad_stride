@@ -5,6 +5,7 @@
 #include <string.h> // strlen
 #include <signal.h>
 
+
 #define CHAD_FRAMES 7
 #define CHAD_ROWS   24
 
